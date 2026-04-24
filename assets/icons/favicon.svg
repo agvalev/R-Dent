@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="R-Dent icon">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f6fa9"/>
+      <stop offset="100%" stop-color="#27b4b8"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#eef6fb" stroke="#dbe7f2" stroke-width="2"/>
+  <path d="M18 47V17h16.8c7.7 0 12.2 4.4 12.2 10.4 0 4.7-2.6 8-7 9.5L47 47h-8.8l-5.9-9h-5.4v9H18zm8.9-15.8h7.1c3.2 0 4.9-1.5 4.9-3.9 0-2.4-1.7-3.8-4.9-3.8h-7.1v7.7z" fill="url(#g)"/>
+</svg>
